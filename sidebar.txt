@@ -10,6 +10,10 @@
 
   * [[dgo:obs|Open Bible Stories (dgo)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dgo|d43-dgo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dgo/archive/master.zip|d43-dgo.zip]]
+
 **Recent Changes**
 {{changes>ns = dgo}}
 
