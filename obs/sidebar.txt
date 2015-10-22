@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = dgo:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:dgo:obs:status}}
-
